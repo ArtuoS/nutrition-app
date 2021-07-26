@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{76B49FF4-D87
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{29AEDA1A-543C-44B5-9482-1D32772EC60F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{4E4E00A0-942E-4812-B343-07A3D00F1A90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,9 +21,16 @@ Global
 		{55BF80C7-A3E7-457C-AC58-CB54F2FC2B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55BF80C7-A3E7-457C-AC58-CB54F2FC2B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55BF80C7-A3E7-457C-AC58-CB54F2FC2B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4E00A0-942E-4812-B343-07A3D00F1A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4E00A0-942E-4812-B343-07A3D00F1A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4E00A0-942E-4812-B343-07A3D00F1A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4E00A0-942E-4812-B343-07A3D00F1A90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E4E00A0-942E-4812-B343-07A3D00F1A90} = {76B49FF4-D873-4B97-A23D-62A1136ECFE2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {58602187-E10B-4EF0-B195-5B42A0A220E8}
