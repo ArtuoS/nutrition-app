@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dQLp58SZ/tCYxpZ8L5xIqLACNjMjygrSTxNCazCqFb0I5TlacHef5rCk6NifWXAN2FrrTVMnu/83r0Oq7CSQrg==",
+  "dgSpecHash": "KAxRf5ogtl91/sXIFTlciGQDPzV1row9lU1/QhwpoOZTNNYG5EwUsxLTVe3Lg0DNnfBgfldf5dRDKlce6asmyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arthu\\source\\repos\\nutrition-app\\Nutrition.Web\\Nutrition.Web.csproj",
+  "projectFilePath": "C:\\Users\\arthu\\source\\repos\\nutrition-app\\src\\Nutrition.Web\\Nutrition.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

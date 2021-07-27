@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KbVLfK0dsXE6GaCKtFlmtpXddvCqutC/Q63Qng51BOSOLilWgAsOKZwwHyEto7l9BIUE13rMgQT1rZqLFfvcrw==",
+  "dgSpecHash": "j95Gk0oa1qV40cID+4KinFpsB88treWtBwKv7VOflKXShLqRXeWLzGsM8Mg1Nva47QL2b5Eghlqoxn/rzSeQUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arthu\\source\\repos\\nutrition-app\\Nutrition.UnitTests\\Nutrition.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\arthu\\source\\repos\\nutrition-app\\tests\\Nutrition.UnitTests\\Nutrition.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthu\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\arthu\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
